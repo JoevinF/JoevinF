@@ -11,6 +11,7 @@
  - 📫 You can Reach me by mail at joevin.ferret@gmail.com
  - 💬 You can also Reach me on Twitter : [@FerretJoevin](https://twitter.com/FerretJoevin)
  - 💡I Want to create my own game.
+ - 🏎️ Passionate by Formula 1
   
 ---
 
@@ -29,6 +30,8 @@
     <dd>Jenkins (Pipeline)</dd>
     <dt>Project Management :</dt>
     <dd>Jira, Confluence, Trello, Microsoft Office</dd>
+    <dt>Others :</dt>
+    <dd>🍺 Drinking beers </dd>
 </dl>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
