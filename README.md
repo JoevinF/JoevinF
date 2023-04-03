@@ -55,7 +55,7 @@
 
 <dl>
     <dt>Objectif 3D • Gameplay Programming</dt>
-    <dt>MBachelor • Digital and Electronic Sytem</dt>
+    <dt>Bachelor • Digital and Electronic Sytem</dt>
 </dl>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
