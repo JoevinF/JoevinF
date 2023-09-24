@@ -39,6 +39,8 @@
 <h3> 💼 • Experiences </h3>
 
 <dl>
+    <dt>Asobo Studio • Microsoft Flight Simulator</dt>
+    <dd>Data Manager</dd>
     <dt>Playwing • Century Ages of Ashes</dt>
     <dd>Data Manager / Release & Build Specialist</dd>
     <dt>Magic Design Studio • Have A Nice Death</dt>
