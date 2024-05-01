@@ -20,7 +20,7 @@
 
 <dl>
     <dt>Code :</dt>
-    <dd>C, C++, C# / WPF, Python, Javascript / NodeJS, Visual Scripting, Groovy</dd>
+    <dd>C, C++, C# / Winform / WPF, Python, Javascript / NodeJS, Visual Scripting, Groovy</dd>
     <dt>Game Engine :</dt>
     <dd>Unreal Engine, Unity, Anvil, Snowdrop, Godot</dd>
     <dt>Versioning :</dt>
